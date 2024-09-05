@@ -23,6 +23,7 @@ public class Mavenproject1 extends JFrame implements ItemListener {
         combo1.addItem("Op_fundamentales");
         combo1.addItem("Centro_de_gravedad");
         combo1.addItem("T04-Sept-Playeras");
+        combo1.addItem("Becas");
         combo1.addActionListener(new ActionListener(){
         public void actionPerformed(ActionEvent e){
             hacer((String)combo1.getSelectedItem());
@@ -45,6 +46,9 @@ public class Mavenproject1 extends JFrame implements ItemListener {
                     break;
                 case "T04-Sept-Playeras":
                     Tarea_playeras.main(null);
+                    break;
+                case "Becas":
+                    Clase_becas5sep.main(null);
                     break;
                 /*case "Triangulo":
                     Triangulo.main();
