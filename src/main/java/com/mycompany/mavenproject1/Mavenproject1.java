@@ -18,6 +18,7 @@ public class Mavenproject1 extends JFrame implements ItemListener {
         JComboBox<String> combo1=new JComboBox<String>();
         combo1.setBounds(10,10,240,30);
         add(combo1);
+        combo1.addItem("----");
         combo1.addItem("Triangulo");
         combo1.addItem("Op_fundamentales");
         combo1.addItem("Centro_de_gravedad");
@@ -43,7 +44,7 @@ public class Mavenproject1 extends JFrame implements ItemListener {
                     Centro_de_gravedad.main(null);
                     break;
                 case "T04-Sept-Playeras":
-                    //Tarea_playeras.main(null);
+                    Tarea_playeras.main(null);
                     break;
                 /*case "Triangulo":
                     Triangulo.main();
