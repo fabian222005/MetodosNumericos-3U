@@ -11,4 +11,12 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.mycompany.mavenproject1.Mavenproject1</exec.mainClass>
     </properties>
+    <distributionManagement>
+       <repository>
+         <id>github</id>
+         <name>github distro</name>
+         <url>https://github.com/fabian222005/MetodosNumericos-3U</url>
+       </repository>
+   </distributionManagement>
+
 </project>
