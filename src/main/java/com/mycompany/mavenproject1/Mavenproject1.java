@@ -26,6 +26,7 @@ public class Mavenproject1 extends JFrame implements ItemListener {
         combo1.addItem("Becas");
         combo1.addItem("Sucesión");
         combo1.addItem("Ganancia Rifa");
+        combo1.addItem("Factorial");
         combo1.addActionListener(new ActionListener(){
         public void actionPerformed(ActionEvent e){
             hacer((String)combo1.getSelectedItem());
@@ -57,6 +58,9 @@ public class Mavenproject1 extends JFrame implements ItemListener {
                     break;
                 case "Ganancia Rifa":
                     Boletos_9sept.main(null);
+                    break;
+                case "Factorial":
+                    Factorial_9sept.main(null);
                     break;
                 /*case "Triangulo":
                     Triangulo.main();
