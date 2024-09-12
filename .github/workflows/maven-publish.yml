@@ -34,8 +34,7 @@ jobs:
 
     - name: Publish to GitHub Packages Apache Maven
       run: mkdir staging && cp target/*.jar staging
-    - uses: action/upload-artifact@v4
+    - uses: actions/upload-artifact@v4
       with:
         name: Package
         path: staging
-        GITHUB_TOKEN: ${{ github.token }}
