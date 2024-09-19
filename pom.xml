@@ -15,8 +15,12 @@
        <repository>
          <id>github</id>
          <name>github distro</name>
-         <url>https://github.com/fabian222005/MetodosNumericos-3U</url>
+         <url>https://maven.pkg.github.com/fabian222005/MetodosNumericos-3U</url>
        </repository>
    </distributionManagement>
-
+<scm>
+<url>https://github.com/fabian222005/MetodosNumericos-3U</url>
+<connection>scm:git://github.com/fabian222005/MetodosNumericos-3U.git</connection>
+<developerConnection>scm:git://github.com/fabian222005/MetodosNumericos-3U.git</developerConnection>
+</scm>
 </project>
