@@ -27,11 +27,9 @@ public class Mavenproject1 extends JFrame implements ItemListener {
         combo1.addItem("Sucesión");
         combo1.addItem("Ganancia Rifa");
         combo1.addItem("Factorial");
-        combo1.addItem("T09-Sept-PuntodeV");
         combo1.addItem("T09-Sept-pdv");
         combo1.addItem("Arreglos");
         combo1.addItem("Raices");
-        combo1.addItem("Seno");
         combo1.addItem("SenoClase");
         combo1.addActionListener(new ActionListener(){
         public void actionPerformed(ActionEvent e){
@@ -68,9 +66,6 @@ public class Mavenproject1 extends JFrame implements ItemListener {
                 case "Factorial":
                     Factorial_9sept.main(null);
                     break;
-                case "T09-Sept-PuntodeV":
-                    Tarea_9Sept_PuntodeVenta.main(null);
-                    break;
                 case "T09-Sept-pdv":
                     Tarea_9sept_pdv.main(null);
                     break;
@@ -79,9 +74,6 @@ public class Mavenproject1 extends JFrame implements ItemListener {
                     break;
                 case "Raices":
                     Raices.main(null);
-                    break;
-                case "Seno":
-                    Serie_del_seno.main(null);
                     break;
                 case "SenoClase":
                     SenoClase.main(null);
