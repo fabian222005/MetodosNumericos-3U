@@ -1,7 +1,8 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+Tarea realizada en clase 18 sept.:
+Calcule e imprima la serie del seno con margen de error indicado por el 
+usuario.
+*/
 package com.mycompany.mavenproject1;
 
 import javax.swing.JOptionPane;

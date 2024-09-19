@@ -1,7 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- *ialosClick nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+ * Calcule el área de un triangulo
+*/
 package com.mycompany.mavenproject1;
 import javax.swing.*;
 public class Triangulo {

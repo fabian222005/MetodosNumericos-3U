@@ -1,6 +1,5 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ Clase 9 sept. Calcule e imprima el factorial para un numero n.
  */
 package com.mycompany.mavenproject1;
 import javax.swing.*;

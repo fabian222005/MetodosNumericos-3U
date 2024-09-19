@@ -1,7 +1,9 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+ CLase 9 sept.
+El grupo 3u realiza una rifa de una bici, para pagar su graduación, el boleto
+cuesta lo mismo que su número de serie, con los datos de boletos girados y
+costo de la bici calcular la ganancia
+*/
 package com.mycompany.mavenproject1;
 import javax.swing.*;
 /**

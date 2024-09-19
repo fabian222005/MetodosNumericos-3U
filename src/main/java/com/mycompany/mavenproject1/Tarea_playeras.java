@@ -1,7 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+ * Calcule el precio total de la orden de playeras, la blanca tiene descuento del 40%.
+*/
 package com.mycompany.mavenproject1;
 
 import java.awt.event.*;

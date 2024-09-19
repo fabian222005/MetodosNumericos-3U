@@ -78,7 +78,7 @@ public class Mavenproject1 extends JFrame implements ItemListener {
                     Arreglo.main(null);
                     break;
                 case "Raices":
-                    Arreglos2.main(null);
+                    Raices.main(null);
                     break;
                 case "Seno":
                     Serie_del_seno.main(null);

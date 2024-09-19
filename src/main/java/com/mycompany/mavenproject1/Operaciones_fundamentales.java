@@ -1,7 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+ * Tarea Calcule las operaciones fundamentales entre dos números
+*/
 package com.mycompany.mavenproject1;
 import javax.swing.JOptionPane;
 /**

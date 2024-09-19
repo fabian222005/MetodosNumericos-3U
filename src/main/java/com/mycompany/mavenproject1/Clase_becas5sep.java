@@ -1,7 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+ * Clase 5 sept. Se desea becar a todos los universitarios que lleven un promedio superior a
+80 y segun el semestre que curse y su edad. El promedio 100% tiene doble apoyo.
+*/
 package com.mycompany.mavenproject1;
 
 import javax.swing.JOptionPane;

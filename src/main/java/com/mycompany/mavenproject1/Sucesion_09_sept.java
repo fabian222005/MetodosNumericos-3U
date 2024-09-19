@@ -1,7 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+ * Clase 9  sept. Calcula la suma del 1 al n e imprimala
+*/
 package com.mycompany.mavenproject1;
 import javax.swing.*;
 /**

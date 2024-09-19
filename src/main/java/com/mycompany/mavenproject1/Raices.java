@@ -1,5 +1,8 @@
 /*
-Programa para calcular cuantas raices contiene una ecuación alg. de la forma f(x)=0, en determinado rango, y que imprima cada uno de los intervalos.
+Clase 12 sept:
+Programa para calcular cuantas raices contiene una ecuación algebraica
+de la forma f(x)=0, en determinado rango, y que imprima cada uno de los 
+intervalos.
  */
 package com.mycompany.mavenproject1;
 
@@ -9,7 +12,7 @@ import javax.swing.JOptionPane;
  *
  * @author fabian
  */
-public class Arreglos2 {
+public class Raices {
     public static double Curva(double x){
         double y = -5*Math.sin(x)-Math.exp(x);
         return y;
