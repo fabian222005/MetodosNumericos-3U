@@ -20,6 +20,6 @@ public class Boletos_9sept {
             suma = suma +i;
         
         double ganancia = suma - costo;
-        JOptionPane.showMessageDialog(null,"Para los "+boletos+" y la bicicleta costó: $" + suma + ", la ganancia fue de: $"+ganancia+".");
+        JOptionPane.showMessageDialog(null,"Para los "+boletos+" se recibió: $"+ suma + " y la bicicleta costó: $" + costo + ", la ganancia fue de: $"+ganancia+".");
     }
 }
