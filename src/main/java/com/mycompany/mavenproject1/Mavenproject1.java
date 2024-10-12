@@ -31,7 +31,6 @@ public class Mavenproject1 extends JFrame implements ItemListener {
         combo1.addItem("Arreglos");
         combo1.addItem("Raices");
         combo1.addItem("SenoClase");
-        combo1.addItem("Raices-bisecciones");
         combo1.addActionListener(new ActionListener(){
         public void actionPerformed(ActionEvent e){
             hacer((String)combo1.getSelectedItem());
@@ -79,9 +78,6 @@ public class Mavenproject1 extends JFrame implements ItemListener {
                 case "SenoClase":
                     SenoClase.main(null);
                     break;
-                case "Raices-bisecciones":
-                    Raices1.main(null);
-                    break;
                 /*case "Triangulo":
                     Triangulo.main();
                     break;*/
@@ -100,7 +96,3 @@ public class Mavenproject1 extends JFrame implements ItemListener {
         System.out.printf(stri);*/
     }
 }
-/*
-Unidad 2 Raices y Ecuaciones
-Método de Bisección o regla del intervalo medio o de Bonzano
-*/
