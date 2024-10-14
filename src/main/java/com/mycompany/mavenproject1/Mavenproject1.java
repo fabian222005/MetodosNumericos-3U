@@ -31,6 +31,11 @@ public class Mavenproject1 extends JFrame implements ItemListener {
         combo1.addItem("Arreglos");
         combo1.addItem("Raices");
         combo1.addItem("SenoClase");
+        combo1.addItem("Raices-bisecciones");
+        combo1.addItem("Raices-newton");
+        combo1.addItem("Raices-VonMises");
+        combo1.addItem("Raices-MetodoPropio");
+        combo1.addItem("Raices-Secante");
         combo1.addActionListener(new ActionListener(){
         public void actionPerformed(ActionEvent e){
             hacer((String)combo1.getSelectedItem());
@@ -71,12 +76,27 @@ public class Mavenproject1 extends JFrame implements ItemListener {
                     break;
                 case "Arreglos":
                     Arreglo.main(null);
-                    break;
+                    break;                
                 case "Raices":
                     Raices.main(null);
                     break;
                 case "SenoClase":
                     SenoClase.main(null);
+                    break;
+                case "Raices-bisecciones":
+                    Raices1.main(null);
+                    break;
+                case "Raices-newton":
+                    RaicesNewton.main(null);
+                    break;
+                case "Raices-VonMises":
+                    RaicesVonMises.main(null);
+                    break;
+                case "Raices-MetodoPropio":
+                    RaicesPuerta.main(null);
+                    break;
+                case "Raices-Secante":
+                    RaicesSecante.main(null);
                     break;
                 /*case "Triangulo":
                     Triangulo.main();

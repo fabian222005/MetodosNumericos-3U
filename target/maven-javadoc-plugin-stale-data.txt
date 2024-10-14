@@ -1,0 +1,48 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mavenproject1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'mavenproject1 1.0-SNAPSHOT API'
+com.mycompany.mavenproject1
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/src/main/java = 1726632554576
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/copy.svg = 1728774712422
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/serialized-form.html = 1728774712041
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/index.html = 1728774712375
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/allpackages-index.html = 1728774712230
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/help-doc.html = 1728774712406
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/stylesheet.css = 1728774712415
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/search-page.js = 1728774712439
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/index-all.html = 1728774712357
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/module-search-index.js = 1728774712231
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/link.svg = 1728774712427
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/script.js = 1728774712421
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/type-search-index.js = 1728774712233
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/tag-search-index.js = 1728774712235
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/search.html = 1728774712369
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/element-list = 1728774711830
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/overview-tree.html = 1728774712161
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/member-search-index.js = 1728774712234
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/allclasses-index.html = 1728774712225
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/package-search-index.js = 1728774712232
+/home/fabian/NetBeansProjects/mavenproject1/MetodosNumericos-3U/target/reports/apidocs/search.js = 1728774712437
